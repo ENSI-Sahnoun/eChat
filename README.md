@@ -273,9 +273,6 @@ Ce projet est développé à des fins éducatives dans le cadre du projet du cou
 
 ---
 
-
----
-
 <p align="center">
   Fait avec ❤️ | Sahnoun - Masmoudi - Walha<br>
   <b>Version Actuelle :</b> 2.1
