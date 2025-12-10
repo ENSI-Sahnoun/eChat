@@ -273,9 +273,6 @@ Ce projet est développé à des fins éducatives dans le cadre du projet du cou
 
 ---
 
-## 🔗 Liens
-
-- 📚 [Documentation Wiki](https://github.com/ENSI-Sahnoun/Projet-C/wiki)
 
 ---
 
